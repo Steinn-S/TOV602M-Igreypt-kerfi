@@ -1,9 +1,0 @@
-# Build output
-build/
-
-# macOS
-.DS_Store
-
-# Compiled binaries
-*.o
-*.a
